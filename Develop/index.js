@@ -64,22 +64,3 @@ inquirer
       err ? console.log(err) : console.log('Successfully created README.md!')
     );
   });
-// TODO: Create a function to write README file
-//function writeToFile(fileName, data) {}
-// const generateREADME = ({ name, location, github, linkedin }) =>
-//   `Hi! My name is ${name}</h1>
-//     I am from ${location}.</p>
-//       <h3>Example heading <span class="badge bg-secondary">Contact Me</span></h3>
-//       <ul class="list-group">
-//         <li class="list-group-item">My GitHub username is ${github}</li>
-//         <li class="list-group-item">LinkedIn: ${linkedin}</li>`;
-// TODO: Create a function to initialize app
-//function init() {}
-    // .then((answers) => {
-    // const htmlPageContent = generateHTML(answers);
-// Function call to initialize app
-//init();
-// fs.writeFile('README.md', htmlPageContent, (err) =>
-//       err ? console.log(err) : console.log('Successfully created index.html!')
-//     );
-//   });
